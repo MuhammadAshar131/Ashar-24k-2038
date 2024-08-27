@@ -5,3 +5,8 @@ _This Text is Italic_
 *_This Text is Bold and Italic_*
 ~~OOPS! I made an error~~
 > This Text is quoted
+```
+This line is quoted
+This one as well
+and this one
+```
