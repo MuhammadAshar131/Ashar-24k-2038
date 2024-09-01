@@ -1,17 +1,5 @@
 # AsharLab2-24k-2038
-# Project-1 Lab-2
-**This Text is Bold**
-
-_This Text is Italic_
-
-*_This Text is Bold and Italic_*
-
-~~OOPS! I made an error~~
-
-> This Text is quoted
-
-```
-This line is quoted
-This one as well
-and this one
-```
+# My Intorduction
+My self Muhammad Ashar Ansari        A passionate Cyber Security student
+My recent academics inlclude FSC in Pre-Enginnering.
+![Cyber Security](https://github.com/user-attachments/assets/57432a42-28a2-4eba-a1f3-f7055c4d4bde)
