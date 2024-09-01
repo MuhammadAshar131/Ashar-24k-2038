@@ -1,1 +1,69 @@
+Objective-2 (Pseudocode):
+Task-02: (Adding numbers without using “+” operator)
+1. Start
+2. 
+3. // Input/Output
+4. INPUT num1
+5. INPUT num2
+6. INPUT num3
+7. 
+8. // Variables and Initialization
+9. Set sum to 0
+10. 
+11. // Process Steps
+12. Set sum to num1 - (-num2) - (-num3)
+13. // Output
+14. Print sum
+15. End
 
+
+Task-03: (Creating a simple Calculator which has only “+” and “-” operations
+1. Start
+2. 
+3. // Input/Output
+4. INPUT num1
+5. INPUT num2
+
+
+6. INPUT operator (+ or -)
+7. 
+8. // Variables and Initialization
+9. Set result to 0
+10. 
+11. // Process Steps
+12. (These steps will be handled in conditional statement)
+13. 
+14. // Conditional statement
+15. If operator = “+”
+16. set result to num1 + num2
+17. Else (If operator is “-“, did not really need to specify)
+18. set result to num1 - num2
+// Output
+14. Print result
+15. End
+
+Objective 3 (Algorithm):
+Task-01
+1. Ask the user to enter Nth (Divisor).
+2. Ask the user to enter n (Dividend).
+3. Determine if Nth is a divisor of n.
+4. If n divided by Nth (n/Nth) has no remainder (i.e remainder = 0), then Nth is a divisor of n.
+5. If n divided by Nth has a remainder (i.e remainder ≠ 0), then Nth is not a divisor of n.
+6. Determine if result of n/Nth is even or Odd.
+7. If result divided by 2 (Nth/2) has no remainder, then it is even, else result is odd.
+9. Print whether Nth is divisor of n or not.
+10. Print whether result (i.e n/Nth) is even or odd.
+
+
+Task-03:
+1. Ask the user to enter first number.
+2. Ask the user to enter operator (+, -, *, /, %).
+3. Ask the user to enter second number.
+4. If operator is +, set result to first number + second number.
+5. If operator is -, set result to first number - second number.
+6. If operator is *, set result to first number * second number.
+7. If operator is / and second number is not 0, set result to first number / second number, 
+    else, set result to “error”.
+8. If operator is % and second number is not 0, set result to second number/100 * first 
+    number, else, set result to “error”.
+9. Print result.
