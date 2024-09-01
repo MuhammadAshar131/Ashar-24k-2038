@@ -1,8 +1,13 @@
 # AsharLab2-24k-2038
 # My Intorduction
 - My self Muhammad Ashar Ansari
+
 - A passionate Cyber Security student
-* My recent academics inlclude FSC in Pre-Enginnering.
+
+- My recent academics inlclude FSC in Pre-Enginnering.
+
+- Contact info: Email: Muhammadasharali131@gmail.com
+
 
 
 
