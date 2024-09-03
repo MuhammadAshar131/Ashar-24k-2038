@@ -4,7 +4,7 @@
 
 - A passionate Cyber Security student
 
-- My recent academics inlclude FSC in Pre-Engineering.
+- My recent academics inlclude FSC in Pre-Engineering
 
 - Contact info: Email: Muhammadasharali131@gmail.com
 
